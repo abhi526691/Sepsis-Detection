@@ -23,7 +23,7 @@ An AI model to detect if people are following social distancing & wearing masks 
 ### **`Folder structure`**
 <hr/>
 
-📁 Covid Guard<br/>
+📁 Sepsis Prediction<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📁 Demo <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📁 Face Detector <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📁 Images <br/>
